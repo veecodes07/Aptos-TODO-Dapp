@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-todolist_addr='a2fef60ff969439a3bfa530502bcabcf7050123d0452599c562a71f152713ba5'
+todolist_addr='114bbe40d02a5a85a85c2edd10dc882565e134cfc91cc0d2147df86ec4a081bf'
 Std = "0x1"
 aptos_std = "0x1"
 
